@@ -1,5 +1,24 @@
 package com.coderscampus.domain;
 
+
+/**Branches main/master represents the code that's
+actually live on coderscampus.com)
+UAT not typical)
+OA
+Development
+environments
+Production -> main/ master
+not typical)
+OA
+Dew
+*/
+
+
+
+
+
+
+
 public class Profile {
 	private Integer id;
 	private String name;
